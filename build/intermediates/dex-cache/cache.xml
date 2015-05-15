@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Henry\Desktop\Parse-Decision\ParseStarterProject\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Henry\Desktop\Parse-Decision\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.2-74d4e83159b35cafd261626d278f0fdf2db7b929.jar" />
+    </item>
+    <item
+        jar="C:\Users\Henry\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Henry\Desktop\Parse-Decision\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-475e5a39fbade8524965497c67951477523a6f40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Henry\Documents\place-tery\ParseStarterProject\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Henry\Documents\place-tery\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-a126f2a1f489e38a8c9fd44081616b285c01c88d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Henry\Desktop\Parse-Decision\ParseStarterProject\libs\ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="C:\Users\Henry\Desktop\Parse-Decision\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.2-a101a7975858ac4858ab648c493650c93e6faa48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Henry\Documents\place-tery\ParseStarterProject\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Henry\Documents\place-tery\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.2-c6f466cc3f8db51b92b8267d44bc53b63caa8d17.jar" />
+    </item>
+
+</items>
